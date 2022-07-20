@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lea",
+      "empresa": "Lean",
+      "email": "lea@hotmail.com",
+      "telefono": "1163544453",
+      "notas": "Test 12",
+      "id": 1
+    },
+    {
+      "nombre": "Pedro PUT",
+      "empresa": "PP's",
+      "email": "Pedro@pp.com",
+      "telefono": "1154855288",
+      "notas": "Nuevo",
+      "id": 5
+    }
+  ]
+}
